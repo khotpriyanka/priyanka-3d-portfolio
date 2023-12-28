@@ -36,10 +36,10 @@ import {
       id: "work",
       title: "Work",
     },
-    {
-      id: "contact",
-      title: "Contact",
-    },
+    // {
+    //   id: "contact",
+    //   title: "Contact",
+    // },
   ];
   
   const services = [
@@ -124,10 +124,9 @@ import {
       iconBg: "#383E56",
       date: "August 2020 - July 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Collaborated as a key member of Account Creation and User Tasks Management Team; implemented streamlined account creation process from manual to automated using React.js and Ruby on Rails, reducing time to create accounts by 90%.",
+"Designed and developed APIs with seamless Web hook integration for third-party applications; Collaborated with development team to establish secure sandbox environment for testing and debugging; Successfully shipped code to production with 88% test accuracy.",
+" Employed Test Driven Development (TDD) principles in the migration of a mobile app from Ionic 3 to Ionic 4, enhancing app responsiveness by 20% through diligent migration and optimization contributions. This full-stack migration involved front-end (Angular 16) updates and implemented Integration Testing. Additionally, leveraged WebGL to optimize graphics rendering and improve overall performance in the mobile app’s visual components.",
       ],
     },
     {
@@ -150,10 +149,9 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2023 - Aug 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Applied design patterns to enhance the Leaflet map’s functionality and user experience through the development and implementation of a custom marker feature, allowing geospatial data input using latitude and longitude coordinates, and the integration of polyline drawing to visually represent connections between multiple markers",
+        "Utilized JSON in communication protocol for efficient geospatial data exchange, ensuring seamless communication with the server-side infrastructure. Implemented AJAX for real-time data retrieval, enhancing Leaflet map functionality and overall user experience with improved interactivity.",
+        "Collaborated with cross-functional teams to explore alternative approaches for grid line integration, showcasing problem-solving skills and actively contributing to discussions on GIS enhancements and cross-browser compatibility."
       ],
     },
   ];
